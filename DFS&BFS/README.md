@@ -1,4 +1,4 @@
-# Sistem-Pakar
+# SistemPakar
 
 1184081_SistemPakar3C
 
